@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">1725121013_lichuanjian_lesson09</string>
+    <string-array name="name_list">
+        <item>纽约</item>
+        <item>洛杉矶</item>
+        <item>芝加哥</item>
+        <item>休斯顿</item>
+        <item>菲尼克斯</item>
+        <item>费城</item>
+        <item>圣安东尼奥</item>
+        <item>圣迭戈</item>
+        <item>达拉斯</item>
+        <item>圣何塞</item>
+        <item>奥斯汀</item>
+        <item>杰克逊维尔</item>
+        <item>旧金山</item>
+        <item>哥伦布</item>
+        <item>印第安纳波利斯</item>
+        <item>福和市</item>
+        <item>夏洛特</item>
+        <item>西雅图</item>
+        <item>丹佛</item>
+        <item>厄尔巴索</item>
+        <item>华盛顿</item>
+        <item>波士顿</item>
+        <item>底特律e[›]</item>
+        <item>纳什维尔a[›]</item>
+        <item>孟菲斯</item>
+        <item>波特兰</item>
+        <item>俄克拉荷马城</item>
+        <item>拉斯维加斯</item>
+        <item>路易斯维尔a[›]</item>
+        <item>巴尔的摩d[›]e[›]</item>
+        <item>密尔沃基e[›]</item>
+        <item>阿布奎基</item>
+        <item>图森</item>
+        <item>弗雷斯诺</item>
+        <item>萨克拉门托</item>
+        <item>梅萨</item>
+        <item>堪萨斯城</item>
+        <item>亚特兰大</item>
+        <item>长滩</item>
+        <item>科罗拉多泉</item>
+        <item>罗利</item>
+        <item>迈阿密</item>
+        <item>弗吉尼亚比奇d[›]</item>
+        <item>奥马哈</item>
+        <item>奥克兰</item>
+        <item>明尼阿波利斯</item>
+        <item>图尔萨</item>
+        <item>阿灵顿</item>
+        <item>新奥尔良</item>
+        <item>威奇托</item>
+    </string-array>
+</resources>
